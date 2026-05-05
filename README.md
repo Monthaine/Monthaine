@@ -21,7 +21,9 @@ Estou atualmente estudando lógica da programação, desenvolvimento web e lingu
 ---
 
 ### 📊 Minhas Estatísticas:
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Monthaine&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats-sigma-five.vercel.app/api?username=Monthaine&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Monthaine&layout=compact&theme=radical)
 
 ---
 
